@@ -18,7 +18,7 @@ const Home = () => {
                 <h1 className='text-5xl font-semibold bg-gradient-to-r from-green-700 to-green-900 bg-clip-text text-transparent  ' >We Care</h1>
 
                 <p className='text-[1.3rem] text-gray-600 font-semibold mt-4 mb-6 mr-8   ' >Welcome to our We Care website.
-                We provide thr best online doctor consultation.
+                We provide the best online doctor consultation.
                 you don’t ned to  go any where just book your
                 one on one session with our best Doctors
                 </p>
